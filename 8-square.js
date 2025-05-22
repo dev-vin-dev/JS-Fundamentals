@@ -8,5 +8,5 @@ if (Number.isInteger(square)){
         i++
     }
 }else {
-    console.log("Missing Size")
+    console.log("Missing size")
 };
